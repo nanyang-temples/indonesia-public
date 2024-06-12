@@ -1,0 +1,2941 @@
+# nanyangSiteID: ID for Franke site in Indonesia (fi) collected by Wolfgang Franke (wf)
+# FrankeNo: ID of the site in Franke, Wolfgang. 1988-1997. Chinese epigraphic materials in Indonesia. Singapore: South Seas Society Nanyang Xuehui, 3 vols (Vol. 1: 1988, Vol. 2-1: 1997, Vol 2-2: 1997).
+# dateISO: year of the earliest inscription at the site according to Franke
+# dateRef: Franke ID of the inscribed object carrying the earliest date
+# address: current address of the sites according to Google Maps and similar tools
+# notes: Notes obviously.
+- nanyangSiteId: fi-wf-001
+  FrankeNo: A1.1
+  dateISO: '1469'
+  dateRef: A1.1.1
+  address: Jl. Sultan Mahmudsyah No.10, Peuniti, Kec. Baiturrahman, Kota Banda Aceh,
+    Aceh 23116, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-002
+  FrankeNo: A1.2
+  dateISO: '1878'
+  dateRef: A1.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-003
+  FrankeNo: A1.3
+  dateISO: '1900'
+  dateRef: A1.3.1
+  address: G72W+V4F, Geundring, Kec. Darul Imarah, Kabupaten Aceh Besar, Aceh 23234,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-004
+  FrankeNo: A1.4
+  dateISO: '1944'
+  dateRef: A1.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-005
+  FrankeNo: A2.1
+  dateISO: '1927'
+  dateRef: A2.1.1
+  address: 5PX8+QRX, Jl. BTN Kupula Indah, Geulanggang Baro, Kec. Kota Juang, Kabupaten
+    Bireuen, Aceh 24261, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-006
+  FrankeNo: A3.1
+  dateISO: '1886'
+  dateRef: A3.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-007
+  FrankeNo: A3.2
+  dateISO: '1913'
+  dateRef: A3.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-008
+  FrankeNo: A4.1
+  dateISO: '1898'
+  dateRef: A4.1.1
+  address: 73RJ+87P, Jalan, Kampung Durian, Rantau, Aceh Tamiang Regency, Aceh 24476,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-009
+  FrankeNo: A5.1
+  dateISO: '1906'
+  dateRef: A5.1.1
+  address: FX95+HC7, Unnamed Road, Gampong Jawa, Kec. Langsa Kota, Kota Langsa, Aceh
+    24375, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-010
+  FrankeNo: A6.1
+  dateISO: '1909'
+  dateRef: A6.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-011
+  FrankeNo: A6.2
+  dateISO: '1922'
+  dateRef: A6.2.1, 6.2.2
+  address: 549G+PGP, Uteun Kot, Kec. Muara Dua, Kota Lhokseumawe, Aceh 24355, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-012
+  FrankeNo: A7.1
+  dateISO: '1897'
+  dateRef: A7.1.1
+  address: Jl. Perdagangan No.40, Kuta Timu, Sukakarya, Kota Sabang, Aceh 23513, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-013
+  FrankeNo: A7.2
+  dateISO: '1894'
+  dateRef: A7.2.1
+  address: V8WF+R9V, Kuta Ateueh, Sukakarya, Kota Sabang, Aceh 24411, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-014
+  FrankeNo: A8.1
+  dateISO: '1904'
+  dateRef: A8.1.1
+  address: 953H+WW8, Unnamed Road, Tangsi Lama, Kec. Seuruway, Kabupaten Aceh Tamiang,
+    Aceh 24472, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-015
+  FrankeNo: A8.2
+  dateISO: '1903'
+  dateRef: A8.2.1
+  address: 73RJ+87P, Jalan, Kampung Durian, Rantau, Aceh Tamiang Regency, Aceh 24476,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-016
+  FrankeNo: B1.1
+  dateISO: '1885'
+  dateRef: B1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-017
+  FrankeNo: B1.2
+  dateISO: '1886'
+  dateRef: B1.2.1, B1.2.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-018
+  FrankeNo: B1.3
+  dateISO: '1890'
+  dateRef: B1.3.1, B1.3.2, B1.3.3, B1.3.4, B1.3.5
+  address: PMMG+646, Jl. Syahbudin Yatim, Pekan Labuhan, Kec. Medan Labuhan, Kota
+    Medan, Sumatera Utara 20253, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-019
+  FrankeNo: B1.4
+  dateISO: '1890'
+  dateRef: B1.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-020
+  FrankeNo: B1.5
+  dateISO: '1895'
+  dateRef: B1.5.1
+  address: MMP8+V48, Jl. Platina Raya, Titi Papan, Kec. Medan Deli, Kota Medan, Sumatera
+    Utara 20251, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-021
+  FrankeNo: B1.6
+  dateISO: '1906'
+  dateRef: B1.6.1
+  address: Jl. Pandu Baru No.2, Ps. Baru, Kec. Medan Kota, Kota Medan, Sumatera Utara
+    20212, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-022
+  FrankeNo: B1.7
+  dateISO: '1878'
+  dateRef: B1.7.1
+  address: PM58+JW7, Rengas Pulau, Kec. Medan Marelan, Kota Medan, Sumatera Utara
+    20252, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-023
+  FrankeNo: B1.8
+  dateISO: '1923'
+  dateRef: B1.8.1, B1.8.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-024
+  FrankeNo: B1.9
+  dateISO: '1936'
+  dateRef: B1.9.1, B1.9.2
+  address: HMMR+V2R, Jl. Lahat, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera
+    Utara 20211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-025
+  FrankeNo: B1.10
+  dateISO: '1936'
+  dateRef: B1.10.1
+  address: Jl. Sun Yat Sen No.59, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera
+    Utara 20211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-026
+  FrankeNo: B1.11
+  dateISO: '1950'
+  dateRef: B1.11.1
+  address: Jl. Tapanuli No.105, Pandau Hulu I, Kec. Medan Kota, Kota Medan, Sumatera
+    Utara 20233, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-027
+  FrankeNo: B1.12
+  dateISO: '1951'
+  dateRef: B1.12.1, B1.12.2
+  address: Jl. Lahat No.21, Sei Rengas I, Kec. Medan Kota, Kota Medan, Sumatera Utara
+    20211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-028
+  FrankeNo: B1.13
+  dateISO: '1952'
+  dateRef: B1.13.1
+  address: Jl. HOS Cokroaminoto No.6, Pandau Hulu I, Kec. Medan Kota, Kota Medan,
+    Sumatera Utara 20211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-029
+  FrankeNo: B1.14
+  dateISO: '1954'
+  dateRef: B1.14.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-030
+  FrankeNo: B1.15
+  dateISO: '1955'
+  dateRef: B1.15.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-031
+  FrankeNo: B1.16
+  dateISO: '1967'
+  dateRef: B1.16.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-032
+  FrankeNo: B1.17
+  dateISO: '1879'
+  dateRef: B1.17.1
+  address: PMMG+532, Jl. Syahbudin Yatim, Pekan Labuhan, Kec. Medan Labuhan, Kota
+    Medan, Sumatera Utara 20253, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-033
+  FrankeNo: B1.18
+  dateISO: '1876'
+  dateRef: B1.18.1, B1.18.2
+  address: PM7R+C3X, Martubung, Kec. Medan Labuhan, Kota Medan, Sumatera Utara 20252,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-034
+  FrankeNo: B1.19
+  dateISO: '1881'
+  dateRef: B1.19.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-035
+  FrankeNo: B1.20
+  dateISO: '1894'
+  dateRef: B1.20.1
+  address: Jl. Deli Indah No.5, Pulo Brayan Kota, Kec. Medan Bar., Kota Medan, Sumatera
+    Utara 20239, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-036
+  FrankeNo: B1.21
+  dateISO: '1922'
+  dateRef: B1.21.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-037
+  FrankeNo: B1.22
+  dateISO: '1932'
+  dateRef: B1.22.1
+  address: Jl. Deli Indah IV No.6, Pulo Brayan Kota, Kec. Medan Bar., Kota Medan,
+    Sumatera Utara 20116, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-038
+  FrankeNo: B1.23
+  dateISO: '1903'
+  dateRef: B1.23.1
+  address: Jl. Jend. Ahmad Yani No.105, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera
+    Utara 20111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-039
+  FrankeNo: B1.24
+  dateISO: ''
+  dateRef: ''
+  address: Jl. Jend. Ahmad Yani No.105, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera
+    Utara 20111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-040
+  FrankeNo: B2.1
+  dateISO: '1869'
+  dateRef: B2.1.1
+  address: 297V+575, Ps. Terandam, Kec. Barus, Kabupaten Tapanuli Tengah, Sumatera
+    Utara 22564, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-041
+  FrankeNo: B3.1
+  dateISO: '1952'
+  dateRef: B3.1.1
+  address: 5GXC+JWW, Sempajaya, Kec. Berastagi, Kabupaten Karo, Sumatera Utara 22152,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-042
+  FrankeNo: B3.2
+  dateISO: '1919'
+  dateRef: B3.2.1
+  address: 5GXF+72W, Sempajaya, Kec. Berastagi, Kabupaten Karo, Sumatera Utara 22152,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-043
+  FrankeNo: B4.1
+  dateISO: '1886'
+  dateRef: B4.1.1
+  address: JF6R+9RQ, Jl. Jendral Sudirman, Pekan Binjai, Kec. Binjai Kota, Kota Binjai,
+    Sumatera Utara 20711, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-044
+  FrankeNo: B4.2
+  dateISO: '1896'
+  dateRef: B4.2.1
+  address: HCWX+72J, Tj. Merahe, Kec. Selesai, Kabupaten Langkat, Sumatera Utara 20719,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-045
+  FrankeNo: B5.1
+  dateISO: '1911'
+  dateRef: B5.1.1
+  address: R57Q+Q46, Sembulang, Galang, Kota Batam, Kepulauan Riau 29481, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-046
+  FrankeNo: B5.2
+  dateISO: '1913'
+  dateRef: B5.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-047
+  FrankeNo: B6.1
+  dateISO: ''
+  dateRef: B6.1.1
+  address: Jl. Sirao No.131, Saombo, Kec. Gunungsitoli, Kota Gunungsitoli, Sumatera
+    Utara 22814, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-048
+  FrankeNo: B6.2
+  dateISO: '1894'
+  dateRef: B6.2.1
+  address: Jln kenari,Dusun 1, Saewe, Kec. Gunungsitoli Sel., Kota Gunungsitoli, Sumatera
+    Utara 22812, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-049
+  FrankeNo: B7.1
+  dateISO: '1920'
+  dateRef: B7.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-050
+  FrankeNo: B8.1
+  dateISO: '1955'
+  dateRef: B8.1.1
+  address: Jl. Imam Bonjol No.81, Kisarn Tim., Kec. Kota Kisaran Timur, Kabupaten
+    Asahan, Sumatera Utara 21211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-051
+  FrankeNo: B8.2
+  dateISO: '1902'
+  dateRef: B8.2.1
+  address: XJFP+PCF, Tim.,, Selawan, Kec. Kota Kisaran Timur, Kabupaten Asahan, Sumatera
+    Utara 21221, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-052
+  FrankeNo: B8.3
+  dateISO: '1920'
+  dateRef: B8.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-053
+  FrankeNo: B9.1
+  dateISO: '1895'
+  dateRef: B9.1.1, B9.1.2
+  address: HV6G+JV3, Jl. Tengku Raja Muda, Tj. Garbus Satu, Kec. Lubuk Pakam, Kabupaten
+    Deli Serdang, Sumatera Utara 20518, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-054
+  FrankeNo: B9.2
+  dateISO: '1957'
+  dateRef: B9.2.1
+  address: Jl. Bakaran Batu No.22, Tj. Garbus Satu, Kec. Lubuk Pakam, Kabupaten Deli
+    Serdang, Sumatera Utara 20517, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-055
+  FrankeNo: B9.3
+  dateISO: '1896'
+  dateRef: B9.3.1
+  address: HV66+4PF, Petapahan, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera
+    Utara 20511, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-056
+  FrankeNo: B10.1
+  dateISO: '1867'
+  dateRef: B10.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-057
+  FrankeNo: B10.2
+  dateISO: '1895'
+  dateRef: B10.2.1
+  address: 97Q4+CQX, Jl. Sutan Parlaungan Harahap, Kayu Ombun, Kec. Padangsidimpuan
+    Utara, Kota Padang Sidempuan, Sumatera Utara 22733, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-058
+  FrankeNo: B11.1
+  dateISO: '1918'
+  dateRef: B11.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-059
+  FrankeNo: B12.1
+  dateISO: '1874'
+  dateRef: B12.1.1
+  address: Jl. Piturah No.159, Alur Dua, Kec. Sei Lepan, Kabupaten Langkat, Sumatera
+    Utara 20881, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-060
+  FrankeNo: B13.1
+  dateISO: '1931'
+  dateRef: B13.1.1
+  address: 44MW+298, Unnamed Road, Serbelawan, Dolok Batu Nanggar, Simalungun Regency,
+    North Sumatra 21155, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-061
+  FrankeNo: B14.1
+  dateISO: '1918'
+  dateRef: B14.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-062
+  FrankeNo: B14.2
+  dateISO: '1958'
+  dateRef: B14.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-063
+  FrankeNo: B14.3
+  dateISO: '1897'
+  dateRef: B14.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-064
+  FrankeNo: B14.4
+  dateISO: '1906'
+  dateRef: B14.4.2
+  address: X366+25J, Jl. Ade Irma Suryani, Proklamasi, Kec. Siantar Bar., Kota Pematang
+    Siantar, Sumatera Utara 21146, Indonesia
+  notes: 現存最早文物B14.4.1 (1934)
+- nanyangSiteId: fi-wf-065
+  FrankeNo: B14.5
+  dateISO: '1945'
+  dateRef: B14.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-066
+  FrankeNo: B15.1
+  dateISO: '1924'
+  dateRef: B15.1.1
+  address: 23JM+MFC, Perkebunan Perlabian, Kec. Kp. Rakyat, Kab. Labuhanbatu Selatan,
+    Sumatera Utara 21463, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-067
+  FrankeNo: B16.1
+  dateISO: '1938'
+  dateRef: B16.1.1
+  address: Jl. Sandang Pangan No.932, Perdagangan I, Kec. Bandar, Kabupaten Simalungun,
+    Sumatera Utara 21184, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-068
+  FrankeNo: B16.2
+  dateISO: '1922'
+  dateRef: B16.2.1
+  address: 5843+3QG, Nagori Bandar, Kec. Bandar, Kabupaten Simalungun, Sumatera Utara
+    21184, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-069
+  FrankeNo: B17.1
+  dateISO: '1912'
+  dateRef: B17.1.1
+  address: Jl. Sisingamangaraja No.36, Pancuran Gerobak, Sibolga Kota, Kota Sibolga,
+    Sumatera Utara 22513, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-070
+  FrankeNo: B17.2
+  dateISO: '1861'
+  dateRef: B17.2.1
+  address: PQRP+3CP, Jl. Santeong, Pancuran Gerobak, Sibolga Kota, Kota Sibolga, Sumatera
+    Utara 22511, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-071
+  FrankeNo: B18.1
+  dateISO: '1928'
+  dateRef: B18.1.1, B18.1.2
+  address: QF43+WV5, Stabat Baru, Kec. Stabat, Kabupaten Langkat, Sumatera Utara 20811,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-072
+  FrankeNo: B19.1
+  dateISO: '1897'
+  dateRef: B19.1.1
+  address: F4CV+R55, Sei Rampah, Kec. Sei Rampah, Kabupaten Serdang Bedagai, Sumatera
+    Utara 20995, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-073
+  FrankeNo: B19.2
+  dateISO: 1916/1976
+  dateRef: B19.2.1
+  address: ''
+  notes: 現存最早文物紀年天運丙辰年，可能為1916或1976年
+- nanyangSiteId: fi-wf-074
+  FrankeNo: B19.3
+  dateISO: '1906'
+  dateRef: B19.3.1, B19.3.2
+  address: F4QM+J99, Unnamed Road, Sei Rampah, Kec. Sei Rampah, Kabupaten Serdang
+    Bedagai, Sumatera Utara 20995, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-075
+  FrankeNo: B20.1
+  dateISO: '1897'
+  dateRef: B20.1.1
+  address: XR94+8HJ, Jl. Veteran, Indra Sakti, Tanjungbalai Selatan, Kota Tanjung
+    Balai, Sumatera Utara, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-076
+  FrankeNo: B20.2
+  dateISO: '1951'
+  dateRef: B20.2.1, B20.2.2
+  address: Jl. Imam Bonjol No.114, Karya, Tanjungbalai Selatan, Kota Tanjung Balai,
+    Sumatera Utaraa, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-077
+  FrankeNo: B20.3
+  dateISO: '1885'
+  dateRef: B20.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-078
+  FrankeNo: B20.4
+  dateISO: '1907'
+  dateRef: B20.4.1
+  address: WPGR+J5R, Simpang Empat, Kec. Simpang Empat, Kabupaten Asahan, Sumatera
+    Utara 21271, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-079
+  FrankeNo: B21.1
+  dateISO: '1898'
+  dateRef: B21.1.1
+  address: Jl. Medan - Lubuk Pakam Gg. Rahayu No.201, Tj. Morawa B, Kec. Tj. Morawa,
+    Kabupaten Deli Serdang, Sumatera Utara 20362, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-080
+  FrankeNo: B21.2
+  dateISO: ''
+  dateRef: ''
+  address: Jl. Medan - Lubuk Pakam Gg. Rahayu No.201, Tj. Morawa B, Kec. Tj. Morawa,
+    Kabupaten Deli Serdang, Sumatera Utara 20362, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-081
+  FrankeNo: B21.3
+  dateISO: '1877'
+  dateRef: B21.3.1
+  address: GRR6+8GC, Tj. Morawa B, Kec. Tj. Morawa, Kabupaten Deli Serdang, Sumatera
+    Utara 20362, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-082
+  FrankeNo: B22.1
+  dateISO: '1894'
+  dateRef: B22.1.1, B22.1.2
+  address: VCVC+QF3, Pekan Tj. Pura, Kec. Tj. Pura, Kabupaten Langkat, Sumatera Utara
+    20853, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-083
+  FrankeNo: B22.2
+  dateISO: '1924'
+  dateRef: B22.2.1, B22.2.2, B22.2.3
+  address: VCWC+H77, Jl. Pajak Ikan Lama, Pekan Tj. Pura, Kec. Tj. Pura, Kabupaten
+    Langkat, Sumatera Utara 20853, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-084
+  FrankeNo: B22.3
+  dateISO: '1883'
+  dateRef: B22.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-085
+  FrankeNo: B22.4
+  dateISO: '1887'
+  dateRef: B22.4.1
+  address: W9WC+7P6, W9WC+79V, Pekan Gebang, Gebang, Langkat Regency, North Sumatra
+    20856, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-086
+  FrankeNo: B23.1
+  dateISO: '1899'
+  dateRef: B23.1.1
+  address: Jl. Veteran No.40, Tebing Tinggi Lama, Kec. Tebing Tinggi, Kota Tebing
+    Tinggi, Sumatera Utara 20998, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-087
+  FrankeNo: B23.2
+  dateISO: '1959'
+  dateRef: B23.2.1
+  address: 85J6+F2X, Badak Bejuang, Kec. Tebing Tinggi Kota, Kota Tebing Tinggi, Sumatera
+    Utara 20998, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-088
+  FrankeNo: B23.3
+  dateISO: '1918'
+  dateRef: B23.3.1
+  address: 85CG+WR8, Unnamed Rd,, Tebing Tinggi, Kec. Padang Hilir, Kota Tebing Tinggi,
+    Sumatera Utara 20998, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-089
+  FrankeNo: B23.4
+  dateISO: '1928'
+  dateRef: B23.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-090
+  FrankeNo: C1.1
+  dateISO: '1930'
+  dateRef: C1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-091
+  FrankeNo: C1.2
+  dateISO: '1927'
+  dateRef: C1.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-092
+  FrankeNo: C2.1
+  dateISO: '1928'
+  dateRef: C2.1.5
+  address: 5R58+3FP, Bagan Tim., Kec. Bangko, Kabupaten Rokan Hilir, Riau, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-093
+  FrankeNo: C2.2
+  dateISO: '1924'
+  dateRef: C2.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-094
+  FrankeNo: C2.3
+  dateISO: '1926'
+  dateRef: C2.3.1
+  address: 5R65+HXM, Jl. Lintas Bagansiapiapi - Ujung Tj., Bagan Tim., Kec. Bangko,
+    Kabupaten Rokan Hilir, Riau 28912, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-095
+  FrankeNo: C2.4
+  dateISO: '1952'
+  dateRef: C2.4.1
+  address: 5R65+HXM, Jl. Lintas Bagansiapiapi - Ujung Tj., Bagan Tim., Kec. Bangko,
+    Kabupaten Rokan Hilir, Riau 28912, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-096
+  FrankeNo: C2.5
+  dateISO: '1956'
+  dateRef: C2.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-097
+  FrankeNo: C2.6
+  dateISO: '1956'
+  dateRef: C2.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-098
+  FrankeNo: C2.7
+  dateISO: '1964'
+  dateRef: C2.7.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-099
+  FrankeNo: C2.8
+  dateISO: '1978'
+  dateRef: C2.8.1
+  address: Jl. Perdagangan No.278, Bagan Jawa Pesisir, Kec. Bangko, Kabupaten Rokan
+    Hilir, Riau 28912, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-100
+  FrankeNo: C2.9
+  dateISO: ''
+  dateRef: ''
+  address: 5R95+3VC, Gang teguh 2, RT.004/RW.002, Bagan Jawa, Kec. Bangko, Kabupaten
+    Rokan Hilir, Riau 28912, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-101
+  FrankeNo: C2.10
+  dateISO: '1920'
+  dateRef: C2.10.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-102
+  FrankeNo: C2.11
+  dateISO: '1978'
+  dateRef: C2.11.1
+  address: 5Q2V+39W, Jl. Pelabuhan Baru, Bagan Hulu, Kec. Bangko, Kabupaten Rokan
+    Hilir, Riau 28912, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-103
+  FrankeNo: C3.1
+  dateISO: '1892'
+  dateRef: C3.1.1
+  address: Jl. Yos Sudarso, Bengkalis Kota, Kec. Bengkalis, Kabupaten Bengkalis, Riau
+    28711, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-104
+  FrankeNo: C3.2
+  dateISO: '1890'
+  dateRef: C3.2.1
+  address: F489+QP5, Rimba Sekampung, Kec. Bengkalis, Kabupaten Bengkalis, Riau 28713,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-105
+  FrankeNo: C3.3
+  dateISO: '1870'
+  dateRef: C3.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-106
+  FrankeNo: C3.4
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-107
+  FrankeNo: C4.1
+  dateISO: '1960'
+  dateRef: C4.1.1, C4.1.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-108
+  FrankeNo: C4.2
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-109
+  FrankeNo: C5.1
+  dateISO: '1978'
+  dateRef: C5.1.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-110
+  FrankeNo: C5.2
+  dateISO: '1950'
+  dateRef: C5.2.1
+  address: XJR6+8V5, Kawal, Kec. Gn. Kijang, Kabupaten Bintan, Kepulauan Riau 29151,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-111
+  FrankeNo: C6.1
+  dateISO: '1779'
+  dateRef: C6.1.1
+  address: WCVP+V24, Unnamed Road, Senggarang, Tanjung Pinang Kota, Tanjung Pinang
+    City, Riau Islands 29115, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-112
+  FrankeNo: C6.2
+  dateISO: '1814'
+  dateRef: C6.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-113
+  FrankeNo: C6.3
+  dateISO: '1857'
+  dateRef: C6.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-114
+  FrankeNo: C6.4
+  dateISO: '1895'
+  dateRef: C6.4.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-115
+  FrankeNo: C6.5
+  dateISO: '1963'
+  dateRef: C6.5.1, C6.5.2
+  address: WFJ2+335, Kemboja, Kec. Tanjungpinang Bar., Kota Tanjung Pinang, Kepulauan
+    Riau, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-116
+  FrankeNo: C6.6
+  dateISO: '1773'
+  dateRef: C6.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-117
+  FrankeNo: C6.7
+  dateISO: '1838'
+  dateRef: C6.7.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-118
+  FrankeNo: C6.8
+  dateISO: '1893'
+  dateRef: C6.8.1
+  address: XG59+MCR, Air Raja, Kec. Tanjungpinang Tim., Kota Tanjung Pinang, Kepulauan
+    Riau 29125, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-119
+  FrankeNo: D1.1
+  dateISO: '1861'
+  dateRef: D1.1.13
+  address: 29Q7+43X, Jl. Kelenteng, Kp. Pd., Kec. Padang Sel., Kota Padang, Sumatera
+    Barat 25134, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-120
+  FrankeNo: D1.2
+  dateISO: '1850'
+  dateRef: D1.2.1
+  address: 29J3+772, Bukit Gado-gado, Kec. Padang Sel., Kota Padang, Sumatera Barat,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-121
+  FrankeNo: D2.1
+  dateISO: '1895'
+  dateRef: D2.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-122
+  FrankeNo: D3.1
+  dateISO: '1901'
+  dateRef: D3.1.1, D3.1.2
+  address: G9GQ+Q2G, Sei Andok, Kampung Manggis, West Padang Panjang, Padang Panjang
+    City, West Sumatra 27111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-123
+  FrankeNo: D4.1
+  dateISO: '1909'
+  dateRef: D4.1.1
+  address: PJRG+FXR, Padang Karambia, Kec. Payakumbuh Sel., Kota Payakumbuh, Sumatera
+    Barat 26229, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-124
+  FrankeNo: E1.1
+  dateISO: '1881'
+  dateRef: E1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-125
+  FrankeNo: E1.2
+  dateISO: '1938'
+  dateRef: E1.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-126
+  FrankeNo: E1.3
+  dateISO: '1917'
+  dateRef: E1.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-127
+  FrankeNo: E1.4
+  dateISO: '1928'
+  dateRef: E1.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-128
+  FrankeNo: F1.1
+  dateISO: '1839'
+  dateRef: F1.1.1
+  address: 2Q48+WJ4, Jl. Benteng, 9/10 Ulu, Kecamatan Seberang Ulu I, Kota Palembang,
+    Sumatera Selatan 30111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-129
+  FrankeNo: F1.2
+  dateISO: '1855'
+  dateRef: F1.2.1
+  address: Jalan Puncak Sekuming
+  notes: ''
+- nanyangSiteId: fi-wf-130
+  FrankeNo: F1.3
+  dateISO: '1870'
+  dateRef: F1.3.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-131
+  FrankeNo: F1.4
+  dateISO: '1882'
+  dateRef: F1.4.1
+  address: 2Q5F+76M, 13 Ulu, Kec. Seberang Ulu II, Kota Palembang, Sumatera Selatan
+    30116, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-132
+  FrankeNo: F1.5
+  dateISO: '1883'
+  dateRef: F1.5.1
+  address: 2P6X+P7H, Jl. Dr. Wahidin, Talang Semut, Kec. Bukit Kecil, Kota Palembang,
+    Sumatera Selatan, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-133
+  FrankeNo: F1.6
+  dateISO: '1962'
+  dateRef: F1.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-134
+  FrankeNo: F1.7
+  dateISO: 1906/1966
+  dateRef: F1.7.1
+  address: 2Q4C+34Q, 9/10 Ulu, Kecamatan Seberang Ulu I, Kota Palembang, Sumatera
+    Selatan 30111, Indonesia
+  notes: 現存最早文物紀年太歲丙午年，可能為1906或1966年
+- nanyangSiteId: fi-wf-135
+  FrankeNo: F1.8
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-136
+  FrankeNo: F1.9
+  dateISO: '1784'
+  dateRef: F1.9.1
+  address: Seberang Ulu I, 9/10 Ulu, Kota Palembang, Sumatera Selatan 30116, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-137
+  FrankeNo: F1.10
+  dateISO: '1882'
+  dateRef: F1.10.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-138
+  FrankeNo: F1.11
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-139
+  FrankeNo: F2.1
+  dateISO: '1874'
+  dateRef: E1.2.3
+  address: X4J6+HQ3, Batu Rusa, Kec. Merawang, Kabupaten Bangka, Kepulauan Bangka
+    Belitung 33172, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-140
+  FrankeNo: F2.2
+  dateISO: '1897'
+  dateRef: F2.2.2
+  address: X4J6+HQ3, Batu Rusa, Kec. Merawang, Kabupaten Bangka, Kepulauan Bangka
+    Belitung 33172, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-141
+  FrankeNo: F2.3
+  dateISO: '1897'
+  dateRef: F2.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-142
+  FrankeNo: F3.1
+  dateISO: '1936'
+  dateRef: F3.1.1
+  address: Kali Serayu, Lubuk Linggau Utara II, Lubuklinggau City, South Sumatra 31611,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-143
+  FrankeNo: F4.1
+  dateISO: '1880'
+  dateRef: F4.1.1
+  address: JL Jend A Yani, No. 1, RT. 003/05, Tanjung, Kec. Muntok, Kabupaten Bangka
+    Barat, Kepulauan Bangka Belitung 33311, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-144
+  FrankeNo: F4.2
+  dateISO: '1870'
+  dateRef: F4.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-145
+  FrankeNo: F4.3
+  dateISO: '1925'
+  dateRef: F4.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-146
+  FrankeNo: F5.1
+  dateISO: '1841'
+  dateRef: E1.2.4
+  address: Jl. M.H.Muhidin No.1, Bintang, Kec. Rangkui, Kota Pangkal Pinang, Kepulauan
+    Bangka Belitung 33684, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-147
+  FrankeNo: F5.2
+  dateISO: '1853'
+  dateRef: F5.2.1
+  address: V45F+HPQ, Semabung Baru, Kec. Bukitintan, Kota Pangkal Pinang, Kepulauan
+    Bangka Belitung 33684, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-148
+  FrankeNo: F5.3
+  dateISO: '1914'
+  dateRef: F5.3.1
+  address: V45G+F36, Semabung Baru, Kec. Girimaya, Kota Pangkal Pinang, Kepulauan
+    Bangka Belitung 33684, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-149
+  FrankeNo: F6.1
+  dateISO: '1864'
+  dateRef: F6.1.1
+  address: 44X9+MWF, Sungailiat, Sungai Liat, Kabupaten Bangka, Kepulauan Bangka Belitung
+    33211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-150
+  FrankeNo: F7.1
+  dateISO: '1881'
+  dateRef: F7.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-151
+  FrankeNo: F7.2
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-152
+  FrankeNo: F8.1
+  dateISO: '1943'
+  dateRef: F8.1.2
+  address: 2QJF+63X, Duku, Kec. Ilir Tim. II, Kota Palembang, Sumatera Selatan 30111,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-153
+  FrankeNo: F8.2
+  dateISO: '1970'
+  dateRef: F8.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-154
+  FrankeNo: F9.1
+  dateISO: '1868'
+  dateRef: F9.1.1
+  address: 7J4J+XJV, Jl. Siburik Timur, Tj. Pandan, Kec. Tj. Pandan, Kabupaten Belitung,
+    Kepulauan Bangka Belitung 33411, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-155
+  FrankeNo: F9.2
+  dateISO: '1937'
+  dateRef: F9.2.1
+  address: 7J6P+V46, Jl. Anwar Aid, Parit, Kec. Tj. Pandan, Kabupaten Belitung, Kepulauan
+    Bangka Belitung 33411, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-156
+  FrankeNo: F9.3
+  dateISO: '1881'
+  dateRef: F9.3.1
+  address: 6MV7+J2R, Lesung Batang, Kec. Tj. Pandan, Kabupaten Belitung, Kepulauan
+    Bangka Belitung 33412, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-157
+  FrankeNo: F9.4
+  dateISO: '1883'
+  dateRef: F9.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-158
+  FrankeNo: F9.5
+  dateISO: '1902'
+  dateRef: F9.5.1
+  address: 6JVW+R8, Pangkal Lalang, Kec. Tj. Pandan, Kabupaten Belitung, Kepulauan
+    Bangka Belitung, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-159
+  FrankeNo: F9.6
+  dateISO: '1916'
+  dateRef: F9.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-160
+  FrankeNo: F9.7
+  dateISO: '1920'
+  dateRef: F9.7.1
+  address: 6MX9+HMV, Perawas, Kec. Tj. Pandan, Kabupaten Belitung, Kepulauan Bangka
+    Belitung 33412, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-161
+  FrankeNo: F9.8
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-162
+  FrankeNo: G1.1
+  dateISO: '1822'
+  dateRef: G1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-163
+  FrankeNo: G1.2
+  dateISO: '1915'
+  dateRef: G1.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-164
+  FrankeNo: G2.1
+  dateISO: '1922'
+  dateRef: G2.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-165
+  FrankeNo: H1.1
+  dateISO: '1938'
+  dateRef: H1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-166
+  FrankeNo: H2.1
+  dateISO: '1925'
+  dateRef: H2.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-167
+  FrankeNo: H3.1
+  dateISO: '1932'
+  dateRef: H3.1.1
+  address: 5VMQ+X34, Kotabumi Ilir, Kec. Kotabumi, Kabupaten Lampung Utara, Lampung
+    34517, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-168
+  FrankeNo: H4.1
+  dateISO: '1929'
+  dateRef: H4.1.1
+  address: Jl. Yos Sudarso No.1, Panjang Sel., Kec. Panjang, Kota Bandar Lampung,
+    Lampung 35243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-169
+  FrankeNo: H4.2
+  dateISO: '1967'
+  dateRef: H4.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-170
+  FrankeNo: H4.3
+  dateISO: '1915'
+  dateRef: H4.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-171
+  FrankeNo: H4.4
+  dateISO: '1961'
+  dateRef: H4.4.1
+  address: JWVW+2G7, Fajar Esuk, Kec. Pringsewu, Kabupaten Pringsewu, Lampung 35373,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-172
+  FrankeNo: H5.1
+  dateISO: '1898'
+  dateRef: H5.1.1
+  address: Jl. Ikan Kembung No.10-G, Pesawahan, Kec. Telukbetung Selatan, Kota Bandar
+    Lampung, Lampung, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-173
+  FrankeNo: H5.2
+  dateISO: '1949'
+  dateRef: H5.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-174
+  FrankeNo: H5.3
+  dateISO: '1919'
+  dateRef: H5.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-175
+  FrankeNo: H5.4
+  dateISO: '1920'
+  dateRef: H5.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-176
+  FrankeNo: H5.5
+  dateISO: '1971'
+  dateRef: H5.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-177
+  FrankeNo: H5.6
+  dateISO: '1976'
+  dateRef: H5.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-178
+  FrankeNo: I1.1
+  dateISO: '1751'
+  dateRef: I1.1.1
+  address: Jalan Kemenangan Tiga no. 48
+  notes: ''
+- nanyangSiteId: fi-wf-179
+  FrankeNo: I1.2
+  dateISO: '1669'
+  dateRef: I1.2 (p5)
+  address: Jalan Kemenangan III No.19 3
+  notes: 現存最早文物I1.2.1（1724），曾用名觀音亭（Guanyinting, Temple to Guanyin）
+- nanyangSiteId: fi-wf-180
+  FrankeNo: I1.3
+  dateISO: '1755'
+  dateRef: I1.3.1
+  address: 'VVH3+XGR, Jl. Pantai Sanur V, RW.10, Ancol, Kec. Pademangan, Jkt Utara,
+    Daerah Khusus Ibukota Jakarta '
+  notes: ''
+- nanyangSiteId: fi-wf-181
+  FrankeNo: I1.4
+  dateISO: '1761'
+  dateRef: I1.4.1
+  address: Jl. Lautze No.64, RT.5/RW.6, Kartini, Kecamatan Sawah Besar, Kota Jakarta
+    Pusat
+  notes: ''
+- nanyangSiteId: fi-wf-182
+  FrankeNo: I1.5
+  dateISO: '1757'
+  dateRef: I1.5 (p38)
+  address: Jl. Blandongan no.97, Kec. Tambora, Kota Jakarta Barat
+  notes: 現存最早文物I1.5.1（1765）
+- nanyangSiteId: fi-wf-183
+  FrankeNo: I1.6
+  dateISO: '1787'
+  dateRef: I1.6.1
+  address: Jl. Bandengan Sel., RT.1/RW.6, Pekojan, Kec. Tambora, Jkt Utara
+  notes: ''
+- nanyangSiteId: fi-wf-184
+  FrankeNo: I1.7
+  dateISO: '1794'
+  dateRef: I1.7.1
+  address: Jl. Pinangsia I No.49 7, RT.7/RW.5, Pinangsia, Kec. Taman Sari, Kota Jakarta
+    Bara
+  notes: ''
+- nanyangSiteId: fi-wf-185
+  FrankeNo: I1.8
+  dateISO: '1640'
+  dateRef: I1.8 (p54)
+  address: ''
+  notes: 現存最早文物I1.8.1（1799）
+- nanyangSiteId: fi-wf-186
+  FrankeNo: I1.9
+  dateISO: '1812'
+  dateRef: I1.9.1
+  address: Jl. Karang Anyar Gg. 1 No.4, RT.9/RW.1, Karang Anyar, Kecamatan Sawah Besar,
+    Kota Jakarta Pusat
+  notes: ''
+- nanyangSiteId: fi-wf-187
+  FrankeNo: I1.10
+  dateISO: '1824'
+  dateRef: I1.10.1
+  address: VR45+QF6, Jl. Perniagaan Raya, RT.9/RW.1, Tambora, Kec. Tambora, Kota Jakarta
+    Barat, Daerah Khusus Ibukota Jakarta 11230
+  notes: ''
+- nanyangSiteId: fi-wf-188
+  FrankeNo: I1.11
+  dateISO: '1807'
+  dateRef: I1.11 (p64)
+  address: Jl. Kenanga No.25 3, RT.3/RW.10, Semper Bar., Kec. Cilincing, Jkt Utara
+  notes: 現存最早文物I1.11.1（1826）
+- nanyangSiteId: fi-wf-189
+  FrankeNo: I1.12
+  dateISO: '1847'
+  dateRef: I1.12.1
+  address: ' Jl. Jemb. Batu No.45 8, RT.8/RW.6, Pinangsia, Kec. Taman Sari, Kota Jakarta
+    Barat'
+  notes: ''
+- nanyangSiteId: fi-wf-190
+  FrankeNo: I1.13
+  dateISO: '1859'
+  dateRef: I1.13.1
+  address: Jl. Kolonel Masturi No.Km.5, RW.2, Jambudipa, Kec. Cisarua
+  notes: ''
+- nanyangSiteId: fi-wf-191
+  FrankeNo: I1.14
+  dateISO: '1857'
+  dateRef: I1.14.1
+  address: Jl. Pekojan II No.79, RT.10/RW.1, Pekojan, Kec. Tambora, Kota Jakarta Barat
+  notes: ''
+- nanyangSiteId: fi-wf-192
+  FrankeNo: I1.15
+  dateISO: '1863'
+  dateRef: I1.15.1
+  address: Jl. Pinangsia III No.36, RT.5/RW.5, Pinangsia, Kec. Taman Sari, Kota Jakarta
+    Barat
+  notes: ''
+- nanyangSiteId: fi-wf-193
+  FrankeNo: I1.16
+  dateISO: '1869'
+  dateRef: I1.16.1
+  address: ' Jl. Angke Indah No.23A 11330, RT.1/RW.1, Angke, Kec. Tambora, Kota Jakarta
+    Barat'
+  notes: ''
+- nanyangSiteId: fi-wf-194
+  FrankeNo: I1.17
+  dateISO: '1869'
+  dateRef: I1.17.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-195
+  FrankeNo: I1.18
+  dateISO: '1823'
+  dateRef: I1.18.1
+  address: 1, Jl. Pejagalan 2 No.57, RT.1/RW.5, Pekojan, Kec. Tambora, Kota Jakarta
+    Barat
+  notes: ''
+- nanyangSiteId: fi-wf-196
+  FrankeNo: I1.19
+  dateISO: '1879'
+  dateRef: I1.19.1
+  address: Jl. Jelambar Selatan II No.23, RT.11/RW.2, Jelambar Baru, Kec. Grogol petamburan,
+    Kota Jakarta Barat
+  notes: ''
+- nanyangSiteId: fi-wf-197
+  FrankeNo: I1.20
+  dateISO: '1879'
+  dateRef: I1.20.1
+  address: Jl. Jemb. Batu No.59, RT.10/RW.5, Pinangsia, Kec. Taman Sari, Kota Jakarta
+    Barat
+  notes: ''
+- nanyangSiteId: fi-wf-198
+  FrankeNo: I1.21
+  dateISO: '1936'
+  dateRef: I1.21.1
+  address: Jl. Palmerah Sel. No.5, RT.4/RW.2, Pejompongan, Gelora, Kecamatan Tanah
+    Abang, Kota Jakarta Pusat
+  notes: ''
+- nanyangSiteId: fi-wf-199
+  FrankeNo: I1.22
+  dateISO: '1950'
+  dateRef: I1.22.1
+  address: Jl. Pinangsia III No.18, RT.5/RW.5, Pinangsia, Kec. Taman Sari, Kota Jakarta
+    Barat
+  notes: ''
+- nanyangSiteId: fi-wf-200
+  FrankeNo: I1.23
+  dateISO: '1950'
+  dateRef: I1.23.1
+  address: Jl. Mangga Besar V No. 269 Mangga Besar Taman Sari Jakarta Barat DKI Jakarta,
+    RT.6/RW.2, Mangga Besar, Kec. Taman Sari, Kota Jakarta Barat
+  notes: ''
+- nanyangSiteId: fi-wf-201
+  FrankeNo: I1.24
+  dateISO: '1927'
+  dateRef: I1.24.1
+  address: Jl. Mangga Besar V No.269, RT.12/RW.2, Kota Tua, Mangga Besar, Kec. Taman
+    Sari, Kota Jakarta Barat
+  notes: ''
+- nanyangSiteId: fi-wf-202
+  FrankeNo: I1.25
+  dateISO: '1644'
+  dateRef: I1.25.1
+  address: Makam Souw Beng Kong, Jl. Pangeran Jayakarta No.a 6, RT.2/RW.7, South Mangga
+    Dua, Sawah Besar
+  notes: ''
+- nanyangSiteId: fi-wf-203
+  FrankeNo: I1.26
+  dateISO: '1791'
+  dateRef: I1.26.1
+  address: Jl. Tiang Bendera
+  notes: ''
+- nanyangSiteId: fi-wf-204
+  FrankeNo: I1.27
+  dateISO: '1853'
+  dateRef: I1.27.1
+  address: gongtang, Jalan Lautse
+  notes: ''
+- nanyangSiteId: fi-wf-205
+  FrankeNo: I1.28
+  dateISO: '1751'
+  dateRef: I1.28.1
+  address: Jl. Perniagaan Raya No.3, RT.4/RW.2, Tambora, Kec. Tambora, Kota Jakarta
+    Barat
+  notes: ''
+- nanyangSiteId: fi-wf-206
+  FrankeNo: J1.1
+  dateISO: '1885'
+  dateRef: J1.1.1
+  address: Jl. Kelenteng No.10 23A, Ciroyom, Kec. Andir, Kota Bandung
+  notes: ''
+- nanyangSiteId: fi-wf-207
+  FrankeNo: J1.2
+  dateISO: '1933'
+  dateRef: J1.2.1
+  address: Jl. Pagarsih No.158, Jamika, Kec. Bojongloa Kaler, Kota Bandung
+  notes: ''
+- nanyangSiteId: fi-wf-208
+  FrankeNo: J1.3
+  dateISO: '1875'
+  dateRef: J1.3.1
+  address: 3MX8+4FR, Jatihandap, Kec. Mandalajati, Kota Bandung
+  notes: ''
+- nanyangSiteId: fi-wf-209
+  FrankeNo: J2.1
+  dateISO: '1738'
+  dateRef: J2.1.1
+  address: ' Jl. Tubagus Raya, Banten, Kec. Kasemen'
+  notes: ''
+- nanyangSiteId: fi-wf-210
+  FrankeNo: J2.2
+  dateISO: '1754'
+  dateRef: J2.2.1
+  address: Jl. Masjid Agung Banten, Banten, Kec. Kasemen
+  notes: ''
+- nanyangSiteId: fi-wf-211
+  FrankeNo: J2.3
+  dateISO: '1791'
+  dateRef: J2.3.1
+  address: Situ,Sumedang Utara
+  notes: ''
+- nanyangSiteId: fi-wf-212
+  FrankeNo: J3.1
+  dateISO: '1867'
+  dateRef: J3.1.1
+  address: RT.03/RW.07, Babakan Ps., Kecamatan Bogor Tengah, Kota Bogor
+  notes: ''
+- nanyangSiteId: fi-wf-213
+  FrankeNo: J3.2
+  dateISO: '1883'
+  dateRef: J3.2.1
+  address: ' Jl. Pulo Geulis No.18, RT.02/RW.04, Babakan Ps., Kecamatan Bogor Tengah,
+    Kota Bogor'
+  notes: ''
+- nanyangSiteId: fi-wf-214
+  FrankeNo: J3.3
+  dateISO: '1811'
+  dateRef: J3.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-215
+  FrankeNo: J4.1
+  dateISO: '1880'
+  dateRef: J4.1 (p185)
+  address: BJl. Mangunsarkoro No.60, Pamoyanan, Kec. Cianjur, Kabupaten Cianjur, 43211
+  notes: 現存最早文物J4.1.1（1896）
+- nanyangSiteId: fi-wf-216
+  FrankeNo: J5.1
+  dateISO: '1751'
+  dateRef: J5.1.1
+  address: 'jl.Alternatif cileungsi-cibubur No: 39, kp Jl. Pasar Lama, RT.001/RW.001,
+    Cileungsi, Kec. Cileungsi, Kabupaten Bogor 16820'
+  notes: ''
+- nanyangSiteId: fi-wf-217
+  FrankeNo: J6.1
+  dateISO: '1714'
+  dateRef: J6.1.1
+  address: 7HJC+R4Q  Kantor, Jalan, Panjunan, Kec. Lemahwungkuk, Kota Cirebon
+  notes: ''
+- nanyangSiteId: fi-wf-218
+  FrankeNo: J6.2
+  dateISO: '1790'
+  dateRef: J6.2.1
+  address: Jl. Talang No.2, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon
+  notes: ''
+- nanyangSiteId: fi-wf-219
+  FrankeNo: J6.3
+  dateISO: '1882'
+  dateRef: J6.3.1
+  address: Winaon No.26/69, Pekalipan, Kec. Pekalipan, Kota Cirebon
+  notes: 疑似
+- nanyangSiteId: fi-wf-220
+  FrankeNo: J6.4
+  dateISO: '1701'
+  dateRef: J6.4.1
+  address: Jl. Walet No.21, Kertawinangun, Kec. Kedawung, Kabupaten Cirebon
+  notes: ''
+- nanyangSiteId: fi-wf-221
+  FrankeNo: J6.5
+  dateISO: '1702'
+  dateRef: J6.5.1
+  address: 7HP6+84V, Jl. Sukalila Utara, Kejaksan, Kec. Kejaksan, Kota Cirebon
+  notes: ''
+- nanyangSiteId: fi-wf-222
+  FrankeNo: J6.6
+  dateISO: '1848'
+  dateRef: J6.6.1
+  address: '9M93+Q5Q, Kali Rejo, Kec. Palas, Kabupaten Lampung Selatan,Lampung '
+  notes: ''
+- nanyangSiteId: fi-wf-223
+  FrankeNo: J7.1
+  dateISO: '1850'
+  dateRef: J7.1.1
+  address: Jl. Cimanuk No.406, Lemahmekar, Kec. Indramayu
+  notes: ''
+- nanyangSiteId: fi-wf-224
+  FrankeNo: J7.2
+  dateISO: '1745'
+  dateRef: J7.2.1
+  address: Jl. Cimanuk No.417, Lemahmekar, Kec. Indramayu
+  notes: ''
+- nanyangSiteId: fi-wf-225
+  FrankeNo: J7.3
+  dateISO: '1861'
+  dateRef: J7.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-226
+  FrankeNo: J8.1
+  dateISO: '1780'
+  dateRef: J8.1 (p276)
+  address: Jl. Muhamad Toha No.9 9, Tanjungmekar, Kec. Karawang Bar.
+  notes: 現存最早文物J8.1.1（1867）
+- nanyangSiteId: fi-wf-227
+  FrankeNo: J9.1
+  dateISO: '1892'
+  dateRef: J9.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-228
+  FrankeNo: J10.1
+  dateISO: '1775'
+  dateRef: J10.1 (p282)
+  address: Jl. Bhakti No.14, RT.001/RW.004, Sukasari, Kec. Tangerang, Kota Tangerang
+  notes: 現存最早文物J10.1.1（1805）
+- nanyangSiteId: fi-wf-229
+  FrankeNo: J10.2
+  dateISO: '1903'
+  dateRef: J10.2.1
+  address: XMJF+QH3, Tj. Pasir, Kec. Teluknaga, Kabupaten Tangerang
+  notes: ''
+- nanyangSiteId: fi-wf-230
+  FrankeNo: J11.1
+  dateISO: '1792'
+  dateRef: J11.1 (P304)
+  address: XGMQ+GMG, Tj. Anom, Kec. Mauk, Kabupaten Tangerang
+  notes: 現存最早文物J11.1.1 (1832)
+- nanyangSiteId: fi-wf-231
+  FrankeNo: J11.2
+  dateISO: '1882'
+  dateRef: J11.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-232
+  FrankeNo: J11.3
+  dateISO: '1747'
+  dateRef: J11.3.1
+  address: XG35+XW9, Jl. Raya Tanjung Kait, Ketapang, Kec. Mauk, Kabupaten Tangerang
+  notes: ''
+- nanyangSiteId: fi-wf-233
+  FrankeNo: K1.1
+  dateISO: '1724'
+  dateRef: K1.1.1
+  address: Jl. Simongan No.129, Bongsari, Kec. Semarang Barat, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-234
+  FrankeNo: K1.2
+  dateISO: '1747'
+  dateRef: K1.2.1
+  address: Gg. Pinggir No.107, Kranggan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-235
+  FrankeNo: K1.3
+  dateISO: '1784'
+  dateRef: K1.3.1
+  address: 2CGF+2X4, Kauman, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-236
+  FrankeNo: K1.4
+  dateISO: '1810'
+  dateRef: K1.4.1
+  address: 2CCG+89V, Jl. Sebandaran 1, Gabahan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-237
+  FrankeNo: K1.5
+  dateISO: '1746'
+  dateRef: K1.5 (p363)
+  address: Gg. Lombok No.62, Kauman, Kec. Semarang Tengah, Kota Semarang
+  notes: 現存最早文物K1.5.1 (1814)
+- nanyangSiteId: fi-wf-238
+  FrankeNo: K1.6
+  dateISO: '1831'
+  dateRef: K1.6.1
+  address: Jl. Wotgandul Timur No.38, Kranggan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-239
+  FrankeNo: K1.7
+  dateISO: '1845'
+  dateRef: K1.7.1
+  address: 2CGH+85X, Gg. Lombok, Purwodinatan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-240
+  FrankeNo: K1.8
+  dateISO: '1882'
+  dateRef: K1.8.1
+  address: Jl. Sebandaran 1 No.32, Gabahan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-241
+  FrankeNo: K1.9
+  dateISO: '1884'
+  dateRef: K1.9.1
+  address: Gg. Pinggir No.110, Kranggan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-242
+  FrankeNo: K1.10
+  dateISO: '1900'
+  dateRef: K1.10.1
+  address: Jl. Layur No.12, Dadapsari, Kec. Semarang Utara, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-243
+  FrankeNo: K1.11
+  dateISO: '1782'
+  dateRef: K1.11.1
+  address: Gg. Pinggir No.70, Kranggan, Kec. Semarang Tengah, Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-244
+  FrankeNo: K1.12
+  dateISO: '1797'
+  dateRef: K1.12.1
+  address: Jl. Mugas Dalam No.58, Mugassari, Kec. Semarang Sel., Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-245
+  FrankeNo: K1.13
+  dateISO: '1840'
+  dateRef: K1.13.1
+  address: XCQV+R83, Lamper Tengah, Kec. Semarang Sel., Kota Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-246
+  FrankeNo: K1.14
+  dateISO: '1847'
+  dateRef: K1.14.1
+  address: Batu Gong, South of Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-247
+  FrankeNo: K1.15
+  dateISO: '1906'
+  dateRef: K1.15.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-248
+  FrankeNo: K1.16
+  dateISO: '1882'
+  dateRef: K1.16.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-249
+  FrankeNo: K2.1
+  dateISO: '1878'
+  dateRef: K2.1.1
+  address: Jl. Jend. Sudirman No.158, Kepatihan, Kranggan, Kec. Ambarawa, Kabupaten
+    Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-250
+  FrankeNo: K2.2
+  dateISO: '1899'
+  dateRef: K2.2.1
+  address: A private cemetery near Ambarawa, semarang
+  notes: ''
+- nanyangSiteId: fi-wf-251
+  FrankeNo: K2.3
+  dateISO: '1906'
+  dateRef: K2.3.1
+  address: Kec. Ambarawa, Kabupaten Semarang
+  notes: ''
+- nanyangSiteId: fi-wf-252
+  FrankeNo: K3.1
+  dateISO: '1906'
+  dateRef: K3.1.1
+  address: F7XX+95R, Jl. Raya Banjarnegara - Purwokerto, Dusun III, Kaliori, Kec.
+    Kalibagor, Kabupaten Banyumas
+  notes: ''
+- nanyangSiteId: fi-wf-253
+  FrankeNo: K4.1
+  dateISO: '1842'
+  dateRef: K4.1.1
+  address: 42JP+F25, Brebes, Brebes Regency, Central Java 52212, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-254
+  FrankeNo: K5.1
+  dateISO: '1906'
+  dateRef: K5.1.1
+  address: 7285+VM7, klenteng, Manggisan, Tambakreja, Kec. Cilacap Sel., Kabupaten
+    Cilacap, Jawa Tengah 53211, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-255
+  FrankeNo: K6.1
+  dateISO: '1870'
+  dateRef: K6.1.1
+  address: 4J4Q+CQF, Stinggil, Bintoro, Demak Sub-District, Demak Regency, Central
+    Java 59511, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-256
+  FrankeNo: K7.1
+  dateISO: '1831'
+  dateRef: K7.1.1
+  address: Jl. Diponegoro No.28, Kauman, Kec. Jepara, Kabupaten Jepara, Jawa Tengah
+    59417, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-257
+  FrankeNo: K8.1
+  dateISO: '1875'
+  dateRef: K8.1.1, K8.1.2
+  address: 74JX+XJ9, Jl. Camong, Rw. 1, Kauman, Kec. Juwana, Kabupaten Pati, Jawa
+    Tengah 59185, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-258
+  FrankeNo: K8.2
+  dateISO: '1873'
+  dateRef: K8.2.1
+  address: 74JX+4XP, Pulorejo, Bumirejo, Kec. Juwana, Kabupaten Pati, Jawa Tengah
+    59185, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-259
+  FrankeNo: K9.1
+  dateISO: '1939'
+  dateRef: K9.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-260
+  FrankeNo: K10.1
+  dateISO: '1895'
+  dateRef: k10.1.1, k10.1.2
+  address: Jl. Jend. Ahmad Yani No.10, Getas, Getas Pejaten, Kec. Jati, Kabupaten
+    Kudus, Jawa Tengah 59343, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-261
+  FrankeNo: K10.2
+  dateISO: '1898'
+  dateRef: K10.2.1
+  address: Jl. Madurekso No.2, Pejaten, Langgardalem, Kec. Kota Kudus, Kabupaten Kudus,
+    Jawa Tengah 59315, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-262
+  FrankeNo: K10.3
+  dateISO: '1903'
+  dateRef: K10.3.1
+  address: Jl. Tj. Karang No.104, Ketanjung, Tj. Karang, Kec. Jati, Kabupaten Kudus,
+    Jawa Tengah 59349, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-263
+  FrankeNo: K10.4
+  dateISO: '1894'
+  dateRef: K10.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-264
+  FrankeNo: K11.1
+  dateISO: '1838'
+  dateRef: K11.1.1
+  address: Jl. Dasun No.19, Pereng, Soditan, Kec. Lasem, Kabupaten Rembang, Jawa Tengah
+    59271, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-265
+  FrankeNo: K11.2
+  dateISO: '1756'
+  dateRef: K11.2.1
+  address: Jl. Babagan No.7, Tawangsari, Babagan, Kec. Lasem, Kabupaten Rembang, Jawa
+    Tengah 59271, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-266
+  FrankeNo: K11.3
+  dateISO: '1895'
+  dateRef: K11.3.1
+  address: Jl. Karangturi Gg. 7 No.15, Karangturi, Kec. Lasem, Kabupaten Rembang,
+    Jawa Tengah 59271, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-267
+  FrankeNo: K11.4
+  dateISO: '1768'
+  dateRef: K11.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-268
+  FrankeNo: K11.5
+  dateISO: '1872'
+  dateRef: K11.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-269
+  FrankeNo: K12.1
+  dateISO: '1881'
+  dateRef: K12.1.1
+  address: Losari Lor, Losari, Brebes Regency, Central Java 52255, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-270
+  FrankeNo: K13.1
+  dateISO: '1895'
+  dateRef: K13.1.1
+  address: Jl. Alun-Alun Utara No.2, Kemirirejo, Kec. Magelang Tengah, Kota Magelang,
+    Jawa Tengah 56117, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-271
+  FrankeNo: K13.2
+  dateISO: '1897'
+  dateRef: K13.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-272
+  FrankeNo: K14.1
+  dateISO: '1891'
+  dateRef: K14.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-273
+  FrankeNo: K15.1
+  dateISO: '1915'
+  dateRef: K15.1.1
+  address: Jl. Pemuda No.100, Balerejo, Muntilan, Kec. Muntilan, Kabupaten Magelang,
+    Jawa Tengah 56411, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-274
+  FrankeNo: K15.2
+  dateISO: '1906'
+  dateRef: K15.2.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-275
+  FrankeNo: K16.1
+  dateISO: '1852'
+  dateRef: K16.1.1
+  address: Jl. Letnan Suwaji No.4, Sumbersari, Parakan Wetan, Kec. Parakan, Kabupaten
+    Temanggung, Jawa Tengah 56254, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-276
+  FrankeNo: K17.1
+  dateISO: '1883'
+  dateRef: K17.1.1, K17.1.2
+  address: Jl. Blimbing No.5, Sampangan, Kec. Pekalongan Tim., Kota Pekalongan, Jawa
+    Tengah 51126, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-277
+  FrankeNo: K17.2
+  dateISO: '1808'
+  dateRef: K17.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-278
+  FrankeNo: K17.3
+  dateISO: '1849'
+  dateRef: K17.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-279
+  FrankeNo: K17.4
+  dateISO: '1842'
+  dateRef: K17.4.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-280
+  FrankeNo: K18.1
+  dateISO: '1893'
+  dateRef: K18.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-281
+  FrankeNo: K19.1
+  dateISO: '1858'
+  dateRef: K19.1.1, K19.1.2, K19.1.3
+  address: WW97+WW4, Jengglong Timur, Purwodadi, Kec. Purwodadi, Kabupaten Grobogan,
+    Jawa Tengah 58111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-282
+  FrankeNo: K20.1
+  dateISO: '1841'
+  dateRef: K20.1.1, K20.1.2
+  address: Rembangan, Tasikagung, Rembang, Rembang Regency, Central Java 59212, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-283
+  FrankeNo: K20.2
+  dateISO: '1858'
+  dateRef: K20.2.1
+  address: 78QM+W97, Jl. KS Tubun, Sugihan, Sumberjo, Kec. Rembang, Kabupaten Rembang,
+    Jawa Tengah 59219, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-284
+  FrankeNo: K20.3
+  dateISO: '1811'
+  dateRef: K20.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-285
+  FrankeNo: K21.1
+  dateISO: '1870'
+  dateRef: K21.1.1
+  address: Jl. Sukowati No.13, Kalicacing, Kec. Sidomukti, Kota Salatiga, Jawa Tengah
+    50724, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-286
+  FrankeNo: K22.1
+  dateISO: '1821'
+  dateRef: K21.1.1
+  address: CRJJ+3GW, Jl. RE. Martadinata No.12, Sudiroprajan, Kec. Jebres, Kota Surakarta,
+    Jawa Tengah 57121, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-287
+  FrankeNo: K22.2
+  dateISO: '1927'
+  dateRef: K22.2.1
+  address: Jl. Yos Sudarso No.122, Jayengan, Kec. Serengan, Kota Surakarta, Jawa Tengah
+    57152, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-288
+  FrankeNo: K22.3
+  dateISO: '1882'
+  dateRef: K22.3.1, K22.3.2
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-289
+  FrankeNo: K22.4
+  dateISO: '1920'
+  dateRef: K22.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-290
+  FrankeNo: K23.1
+  dateISO: '1828'
+  dateRef: K23.1.1
+  address: Jl. Gurami No.2, Tegalsari, Kec. Tegal Bar., Kota Tegal, Jawa Tengah 52111,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-291
+  FrankeNo: K23.2
+  dateISO: '1755'
+  dateRef: K23.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-292
+  FrankeNo: K23.3
+  dateISO: '1888'
+  dateRef: K23.3.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-293
+  FrankeNo: K24.1
+  dateISO: '1889'
+  dateRef: K24.1.1
+  address: M5JM+Q7G, Jl. Jenderal Sudirman, Dongkelan Utara, Jampiroso, Kec. Temanggung,
+    Kabupaten Temanggung, Jawa Tengah 56212, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-294
+  FrankeNo: K25.1
+  dateISO: '1906'
+  dateRef: K25.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-295
+  FrankeNo: K25.2
+  dateISO: '1773'
+  dateRef: K25.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-296
+  FrankeNo: K25.3
+  dateISO: '1881'
+  dateRef: K25.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-297
+  FrankeNo: K26.1
+  dateISO: '1943'
+  dateRef: K26.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-298
+  FrankeNo: K27.1
+  dateISO: '1841'
+  dateRef: K27.1.1
+  address: Jl. Cemara No.4, Gedanganbrang, Welahan, Jepara, Kabupaten Jepara, Jawa
+    Tengah 59464, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-299
+  FrankeNo: K27.2
+  dateISO: '1879'
+  dateRef: K27.2.1
+  address: Gg. Pinggir Pasar No.4, Gedanganbrang, Welahan, Kec. Welahan, Kabupaten
+    Jepara, Jawa Tengah 59464, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-300
+  FrankeNo: K28.1
+  dateISO: '1902'
+  dateRef: K28.1.1
+  address: Jl. Poncowinatan No.12-18, Gowongan, Kec. Jetis, Kota Yogyakarta, Daerah
+    Istimewa Yogyakarta 55233, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-301
+  FrankeNo: K28.2
+  dateISO: '1906'
+  dateRef: K28.2.1
+  address: Jl. Brigjen Katamso No.3, Prawirodirjan, Kec. Gondomanan, Kota Yogyakarta,
+    Daerah Istimewa Yogyakarta 55121, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-302
+  FrankeNo: K28.3
+  dateISO: '1799'
+  dateRef: K28.3.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-303
+  FrankeNo: K28.4
+  dateISO: '1851'
+  dateRef: K28.4.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-304
+  FrankeNo: K28.5
+  dateISO: '1940'
+  dateRef: K28.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-305
+  FrankeNo: L1.1
+  dateISO: '1832'
+  dateRef: L1.1.1
+  address: Jl. Coklat No.2, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur
+    60161, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-306
+  FrankeNo: L1.2
+  dateISO: '1884'
+  dateRef: L1.2.1, L1.2.2, L1.2.3
+  address: Jl. Kapasan No.131, RT.007/RW.09, Kapasan, Kec. Simokerto, Surabaya, Jawa
+    Timur 60141, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-307
+  FrankeNo: L1.3
+  dateISO: '1884'
+  dateRef: L1.3.1
+  address: Jl. Karet No.50, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur
+    60161, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-308
+  FrankeNo: L1.4
+  dateISO: '1899'
+  dateRef: L1.4.1
+  address: Jl. Dukuh No.23 002, RW.05, Nyamplungan, Kec. Pabean Cantikan, Surabaya,
+    Jawa Timur 60162, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-309
+  FrankeNo: L1.5
+  dateISO: '1920'
+  dateRef: L1.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-310
+  FrankeNo: L1.6
+  dateISO: '1923'
+  dateRef: L1.6.1
+  address: PPCQ+PP7, Jl. Cokroaminoto, Soetomo, Kec. Tegalsari, Surabaya, Jawa Timur
+    60264, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-311
+  FrankeNo: L1.7
+  dateISO: '1937'
+  dateRef: L1.7.1
+  address: Jl. Demak No.380, Morokrembangan, Kec. Krembangan, Surabaya, Jawa Timur
+    60178, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-312
+  FrankeNo: L1.8
+  dateISO: '1940'
+  dateRef: L1.8.1
+  address: ''
+  notes: 疑似
+- nanyangSiteId: fi-wf-313
+  FrankeNo: L1.9
+  dateISO: '1951'
+  dateRef: L1.9.1
+  address: Jl. Jagalan No.74-76, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur
+    60274, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-314
+  FrankeNo: L1.10
+  dateISO: '1778'
+  dateRef: L1.10.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-315
+  FrankeNo: L1.11
+  dateISO: '1636'
+  dateRef: L1.11.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-316
+  FrankeNo: L1.12
+  dateISO: '1856'
+  dateRef: L1.12.1
+  address: Jl. Slompretan No.58, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur
+    60161, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-317
+  FrankeNo: L1.13
+  dateISO: '1743'
+  dateRef: L1.13.1
+  address: Jl. Karet No.72, Bongkaran, Kec. Pabean Cantikan, Surabaya, Jawa Timur
+    60161, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-318
+  FrankeNo: L1.14
+  dateISO: '1897'
+  dateRef: L1.14.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-319
+  FrankeNo: L1.15
+  dateISO: '1943'
+  dateRef: L1.15.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-320
+  FrankeNo: L2.1
+  dateISO: '1924'
+  dateRef: L2.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-321
+  FrankeNo: L3.1
+  dateISO: '1784'
+  dateRef: L3.1.1
+  address: Jl. Ikan Gurami No.54, Karangrejo, Kec. Banyuwangi, Kabupaten Banyuwangi,
+    Jawa Timur 68411, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-322
+  FrankeNo: L3.2
+  dateISO: '1903'
+  dateRef: L3.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-323
+  FrankeNo: L4.1
+  dateISO: '1854'
+  dateRef: L4.1.1, L4.1.2
+  address: 7M9Q+FJ3, JL. Teratai Besuki Situbond, Rw4, Sidokumpul, Kec. Sidoarjo,
+    Kabupaten Sidoarjo, Jawa Timur 61212, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-324
+  FrankeNo: L5.1
+  dateISO: '1885'
+  dateRef: L5.1.1
+  address: W525+HG9, Jl. Merdeka Barat, Sukorejo, Kec. Sukorejo, Kota Blitar, Jawa
+    Timur 66121, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-325
+  FrankeNo: L5.2
+  dateISO: '1895'
+  dateRef: L5.2.1, L5.2.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-326
+  FrankeNo: L6.1
+  dateISO: '1864'
+  dateRef: L6.1.1, L6.1.2
+  address: Jl. DR. Setia Budi Gg. Klentheng No.56, Bedilan, Pulopancikan, Kec. Gresik,
+    Kabupaten Gresik, Jawa Timur 61113, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-327
+  FrankeNo: L6.2
+  dateISO: '1876'
+  dateRef: L6.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-328
+  FrankeNo: L7.1
+  dateISO: '1894'
+  dateRef: L7.1.1
+  address: Jl. RE. Martadinata No.72, Kepatihan, Kec. Jombang, Kabupaten Jombang,
+    Jawa Timur 61419, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-329
+  FrankeNo: L8.1
+  dateISO: '1864'
+  dateRef: L8.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-330
+  FrankeNo: L9.1
+  dateISO: '1876'
+  dateRef: L9.1.1
+  address: Jl. Yos Sudarso No.148, Pakelan, Kec. Kota, Kota Kediri, Jawa Timur 64129,
+    Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-331
+  FrankeNo: L9.2
+  dateISO: '1874'
+  dateRef: L9.2.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-332
+  FrankeNo: L10.1
+  dateISO: '1894'
+  dateRef: L10.1.1
+  address: Jl. Cokroaminoto No.69, Kejuron, Kec. Taman, Kota Madiun, Jawa Timur 63133,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-333
+  FrankeNo: L10.2
+  dateISO: '1889'
+  dateRef: L10.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-334
+  FrankeNo: L11.1
+  dateISO: '1881'
+  dateRef: L11.1.1
+  address: Jl. R.E. Martadinata No.1, Kotalama, Kec. Kedungkandang, Kota Malang, Jawa
+    Timur 65118, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-335
+  FrankeNo: L11.2
+  dateISO: '1882'
+  dateRef: L11.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-336
+  FrankeNo: L12.1
+  dateISO: '1952'
+  dateRef: L12.1.1
+  address: Jl. Utara Taman Kota No.16, Pekunden, Kademangan, Kec. Mojoagung, Kabupaten
+    Jombang, Jawa Timur 61482, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-337
+  FrankeNo: L13.1
+  dateISO: '1897'
+  dateRef: L13.1.1
+  address: Jl. PB. Sudirman No.1, Mergelo, Sentanan, Kec. Magersari, Kota Mojokerto,
+    Jawa Timur 61312, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-338
+  FrankeNo: L14.1
+  dateISO: '1762'
+  dateRef: L14.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-339
+  FrankeNo: L15.1
+  dateISO: '1930'
+  dateRef: L15.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-340
+  FrankeNo: L16.1
+  dateISO: '1885'
+  dateRef: L16.1.1
+  address: Jl. Lombok No.7, Trajeng, Kec. Gadingrejo, Kota Pasuruan, Jawa Timur 67132,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-341
+  FrankeNo: L16.2
+  dateISO: '1889'
+  dateRef: L16.2.1, L16.2.2
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-342
+  FrankeNo: L16.3
+  dateISO: '1877'
+  dateRef: L16.3.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-343
+  FrankeNo: L16.4
+  dateISO: '1893'
+  dateRef: L16.4.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-344
+  FrankeNo: L17.1
+  dateISO: '1862'
+  dateRef: L17.1.1
+  address: Jl. WR. Supratman No.127, Mangunharjo, Kec. Mayangan, Kota Probolinggo,
+    Jawa Timur 67217, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-345
+  FrankeNo: L18.1
+  dateISO: '1916'
+  dateRef: L18.1.1
+  address: Jalan Raya Jl. Raya Rogojampi No.69, Pancoran Kulon, Rogojampi, Kec. Rogojampi,
+    Kabupaten Banyuwangi, Jawa Timur 68462, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-346
+  FrankeNo: L19.1
+  dateISO: '1851'
+  dateRef: L19.1.1
+  address: XVGH+RJ8, Jl. Slamet Riyadi, Bereksosok, Pabian, Kec. Kota Sumenep, Kabupaten
+    Sumenep, Jawa Timur 69417, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-347
+  FrankeNo: L19.2
+  dateISO: '1794'
+  dateRef: L19.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-348
+  FrankeNo: L20.1
+  dateISO: '1850'
+  dateRef: L20.1.1, L20.1.2
+  address: Jl. Panglima Sudirman No.104, Sendang Harjo, Sendangharjo, Kec. Tuban,
+    Kabupaten Tuban, Jawa Timur 62319, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-349
+  FrankeNo: L20.2
+  dateISO: '1871'
+  dateRef: L20.2.1
+  address: 4372+Q8R, Kutorejo, Tuban, Karangsari, Kutorejo, Kec. Tuban, Kabupaten
+    Tuban, Jawa Timur 62311, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-350
+  FrankeNo: L20.3
+  dateISO: '1773'
+  dateRef: L20.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-351
+  FrankeNo: L20.4
+  dateISO: '1890'
+  dateRef: L20.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-352
+  FrankeNo: L21.1
+  dateISO: '1865'
+  dateRef: L21.1.1
+  address: Jalan WR. Supratman No.10, Tegalsari, Kampungdalem, Kec. Tulungagung, Jawa
+    Timur, 60264, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-353
+  FrankeNo: M1.1
+  dateISO: '1919'
+  dateRef: M1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-354
+  FrankeNo: M2.1
+  dateISO: '1907'
+  dateRef: M2.1.1, M2.1.2
+  address: Jl. Wisma Gajah Mada No.51, Kemenuh, Kec. Blahbatuh, Kabupaten Gianyar,
+    Bali 8058, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-355
+  FrankeNo: M2.2
+  dateISO: '1886'
+  dateRef: M2.2.1
+  address: ''
+  notes: 疑似
+- nanyangSiteId: fi-wf-356
+  FrankeNo: M3.1
+  dateISO: '1876'
+  dateRef: M3.1.1
+  address: 75GH+F52, Jl. Blambangan, Legian, Kec. Kuta, Kabupaten Badung, Bali 80361,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-357
+  FrankeNo: M3.2
+  dateISO: '1821'
+  dateRef: M3.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-358
+  FrankeNo: M4.1
+  dateISO: '1949'
+  dateRef: M4.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-359
+  FrankeNo: M5.1
+  dateISO: '1910'
+  dateRef: M5.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-360
+  FrankeNo: M6.1
+  dateISO: '1873'
+  dateRef: M6.1.1
+  address: Jl. Erlangga No.65, Kp. Bugis, Kec. Buleleng, Kabupaten Buleleng, Bali
+    81114, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-361
+  FrankeNo: M6.2
+  dateISO: '1908'
+  dateRef: M6.2.2
+  address: Jl. Pulau Flores No.1, Kel, Kp. Baru, Kec. Buleleng, Kabupaten Buleleng,
+    Bali 81113, Indonesia
+  notes: 現存最早文物紀年丁未年，可能為1908或1968年
+- nanyangSiteId: fi-wf-362
+  FrankeNo: M6.3
+  dateISO: '1878'
+  dateRef: M6.3.1, M6.3.2, M6.3.3
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-363
+  FrankeNo: M6.4
+  dateISO: '1878'
+  dateRef: M6.4.1, M6.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-364
+  FrankeNo: M6.5
+  dateISO: '1885'
+  dateRef: M6.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-365
+  FrankeNo: N1.1
+  dateISO: '1789'
+  dateRef: N1.1.1
+  address: Jl. Kapten Marsan No.33, Darat Sekip, Kec. Pontianak Kota, Kota Pontianak,
+    Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-366
+  FrankeNo: N1.2
+  dateISO: '1829'
+  dateRef: N1.2.1
+  address: Jl. Gusti Situt Mahmud No.8, Siantan Tengah, Kec. Pontianak Utara, Kota
+    Pontianak, Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-367
+  FrankeNo: N1.3
+  dateISO: '1850'
+  dateRef: N1.3.1
+  address: Jl. Diponegoro No.104, Darat Sekip, Kec. Pontianak Sel., Kota Pontianak,
+    Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-368
+  FrankeNo: N1.4
+  dateISO: '1879'
+  dateRef: N1.4.1, N1.4.2
+  address: Jl. Tanjung Pura No.16, Benua Melayu Darat, Kec. Pontianak Sel., Kota Pontianak,
+    Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-369
+  FrankeNo: N1.5
+  dateISO: '1879'
+  dateRef: N1.5.1
+  address: Jl. Tlk. Sahang No.160, Siantan Hilir, Kec. Pontianak Utara, Kota Pontianak,
+    Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-370
+  FrankeNo: N1.6
+  dateISO: '1885'
+  dateRef: N1.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-371
+  FrankeNo: N1.7
+  dateISO: '1909'
+  dateRef: N1.7.1
+  address: Jl. H.Agus Salim No.104, Benua Melayu Darat, Kec. Pontianak Sel., Kota
+    Pontianak, Kalimantan Barat 78243, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-372
+  FrankeNo: N1.8
+  dateISO: '1914'
+  dateRef: N1.8.1
+  address: Jl. Gusti Situt Mahmud No.69, Siantan Tengah, Kec. Pontianak Utara, Kota
+    Pontianak, Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-373
+  FrankeNo: N1.9
+  dateISO: '1949'
+  dateRef: N1.9.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-374
+  FrankeNo: N1.10
+  dateISO: '1871'
+  dateRef: N1.10.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-375
+  FrankeNo: N1.11
+  dateISO: '1915'
+  dateRef: N1.11.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-376
+  FrankeNo: N1.12
+  dateISO: '1937'
+  dateRef: N1.12.1
+  address: ''
+  notes: 中文名為據中國民政部《外語地名漢字譯寫導則：印度尼西亚語》擬
+- nanyangSiteId: fi-wf-377
+  FrankeNo: N1.13
+  dateISO: '1919'
+  dateRef: N1.13.1
+  address: Jl. Gajah Mada No.71, Benua Melayu Darat, Kec. Pontianak Sel., Kota Pontianak,
+    Kalimantan Barat 78243, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-378
+  FrankeNo: N1.14
+  dateISO: '1928'
+  dateRef: N1.14.1
+  address: Gg. Gajah Mada 6 No.31, Parit Tokaya, Kec. Pontianak Sel., Kota Pontianak,
+    Kalimantan Barat 78121, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-379
+  FrankeNo: N1.15
+  dateISO: '1897'
+  dateRef: N1.15.1
+  address: ''
+  notes: 疑似
+- nanyangSiteId: fi-wf-380
+  FrankeNo: N2.1
+  dateISO: '1901'
+  dateRef: N2.1.1
+  address: PV8M+CRH, Sungai Raya, Sungai Raya Kepulauan, Kabupaten Bengkayang, Kalimantan
+    Barat 79271, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-381
+  FrankeNo: N3.1
+  dateISO: '1889'
+  dateRef: N3.1.1
+  address: W5QG+3MV, Sungai Belidak, Kec. Sungai Kakap, Kabupaten Kubu Raya, Kalimantan
+    Barat 78381, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-382
+  FrankeNo: N4.1
+  dateISO: '1830'
+  dateRef: N4.1.1
+  address: 6522+W2G, Sungai Purun Besar, Segedong, Kab. Mempawah, Kalimantan Barat
+    78353, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-383
+  FrankeNo: N4.2
+  dateISO: '1935'
+  dateRef: N4.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-384
+  FrankeNo: N5.1
+  dateISO: '1876'
+  dateRef: N5.1.1
+  address: CWPW+836, Sengkubang, Kec. Mempawah Hilir, Kab. Mempawah, Kalimantan Barat
+    78371, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-385
+  FrankeNo: N5.2
+  dateISO: '1889'
+  dateRef: N5.2.1
+  address: 9X56+CV7, Bar., Tengah, Kec. Mempawah Hilir, Kab. Mempawah, Kalimantan
+    Barat 78912, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-386
+  FrankeNo: N5.3
+  dateISO: '1896'
+  dateRef: N5.3.1, N5.3.2
+  address: 64FV+HRG, Sei Purun Kecil, Kec. Sungai Pinyuh, Kab. Mempawah, Kalimantan
+    Barat 78353, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-387
+  FrankeNo: N5.4
+  dateISO: '1894'
+  dateRef: N5.4.1
+  address: ''
+  notes: 現存最早文物紀年光緒二十某年，可能為1894至1903間某年
+- nanyangSiteId: fi-wf-388
+  FrankeNo: N5.5
+  dateISO: '1899'
+  dateRef: N5.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-389
+  FrankeNo: N5.6
+  dateISO: '1908'
+  dateRef: N5.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-390
+  FrankeNo: N5.7
+  dateISO: '1958'
+  dateRef: N5.7.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-391
+  FrankeNo: N6.1
+  dateISO: '1900'
+  dateRef: N6.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-392
+  FrankeNo: N6.2
+  dateISO: '1932'
+  dateRef: N6.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-393
+  FrankeNo: N7.1
+  dateISO: '1865'
+  dateRef: N7.1.1
+  address: Jl. Sejahtera, Pemangkat Kota, Kec. Pemangkat, Kabupaten Sambas, Kalimantan
+    Barat 79453, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-394
+  FrankeNo: N7.2
+  dateISO: '1882'
+  dateRef: N7.2.1
+  address: 5X9H+W6X, Jl. Sejahtera, Pemangkat Kota, Kec. Pemangkat, Kabupaten Sambas,
+    Kalimantan Barat 79453, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-395
+  FrankeNo: N7.3
+  dateISO: '1899'
+  dateRef: N7.3.1, N7.3.2
+  address: Jl. Gedung Nasional No.43, Pemangkat Kota, Kec. Pemangkat, Kabupaten Sambas,
+    Kalimantan Barat 79453, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-396
+  FrankeNo: N7.4
+  dateISO: '1915'
+  dateRef: N7.4.1
+  address: 5XFF+MF6, Pemangkat Kota, Kec. Pemangkat, Kabupaten Sambas, Kalimantan
+    Barat 79453, Indonesia
+  notes: 現存最早文物紀年為乙卯年或己卯年，可能為1915或1939年
+- nanyangSiteId: fi-wf-397
+  FrankeNo: N7.5
+  dateISO: '1979'
+  dateRef: N7.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-398
+  FrankeNo: N7.6
+  dateISO: '1912'
+  dateRef: N7.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-399
+  FrankeNo: N8.1
+  dateISO: '1912'
+  dateRef: N8.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-400
+  FrankeNo: N9.1
+  dateISO: '1831'
+  dateRef: N9.1.1
+  address: 977W+4WX, Jl. Tabrani, Durian, Kec. Sambas, Kabupaten Sambas, Kalimantan
+    Barat 79462, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-401
+  FrankeNo: N9.2
+  dateISO: '1936'
+  dateRef: N9.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-402
+  FrankeNo: N9.3
+  dateISO: '1947'
+  dateRef: N9.3.1
+  address: ''
+  notes: 疑似
+- nanyangSiteId: fi-wf-403
+  FrankeNo: N10.1
+  dateISO: '1864'
+  dateRef: N10.1.1
+  address: Jl. Saman Bujang, Pasiran, Kec. Singkawang Bar., Kota Singkawang, Kalimantan
+    Barat 79111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-404
+  FrankeNo: N10.2
+  dateISO: '1880'
+  dateRef: N10.2.1
+  address: WX3R+W2R, Jl. GM Situt, Pasiran, Kec. Singkawang Bar., Kota Singkawang,
+    Kalimantan Barat 79111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-405
+  FrankeNo: N10.3
+  dateISO: '1893'
+  dateRef: N10.3.1
+  address: Jl. Sejahtera No.28, Melayu, Kec. Singkawang Bar., Kota Singkawang, Kalimantan
+    Barat 79111, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-406
+  FrankeNo: N10.4
+  dateISO: '1894'
+  dateRef: N10.4.1
+  address: VWCP+6C8, Sedau, Kec. Singkawang Sel., Kota Singkawang, Kalimantan Barat
+    79163, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-407
+  FrankeNo: N10.5
+  dateISO: "1930\n 1927"
+  dateRef: N10.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-408
+  FrankeNo: N10.6
+  dateISO: '1903'
+  dateRef: N10.6.1
+  address: VWCR+CMG, Sedau, Kec. Singkawang Sel., Kota Singkawang, Kalimantan Barat
+    79163, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-409
+  FrankeNo: N10.7
+  dateISO: '1917'
+  dateRef: N10.7.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-410
+  FrankeNo: N10.8
+  dateISO: '1922'
+  dateRef: N10.8.1
+  address: VXR7+99G, Sedau, Kec. Singkawang Sel., Kota Singkawang, Kalimantan Barat
+    79123, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-411
+  FrankeNo: N10.9
+  dateISO: '1924'
+  dateRef: N10.9.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-412
+  FrankeNo: N10.10
+  dateISO: '1925'
+  dateRef: N10.10.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-413
+  FrankeNo: N10.11
+  dateISO: '1927'
+  dateRef: N10.11.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-414
+  FrankeNo: N10.12
+  dateISO: '1964'
+  dateRef: N10.12.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-415
+  FrankeNo: N10.13
+  dateISO: '1904'
+  dateRef: N10.13.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-416
+  FrankeNo: N10.14
+  dateISO: '1917'
+  dateRef: N10.14.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-417
+  FrankeNo: N10.15
+  dateISO: '1956'
+  dateRef: N10.15.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-418
+  FrankeNo: N10.16
+  dateISO: '1959'
+  dateRef: N10.16.1, N10.16.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-419
+  FrankeNo: N11.1
+  dateISO: '1849'
+  dateRef: N11.1.1
+  address: 73JF+223, Galang, Kec. Sungai Pinyuh, Kab. Mempawah, Kalimantan Barat 78353,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-420
+  FrankeNo: N12.1
+  dateISO: '1867'
+  dateRef: N12.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-421
+  FrankeNo: N13.1
+  dateISO: '1906'
+  dateRef: N13.1.1
+  address: 64JX+QQ2, Jl. Raya Tebas, Tebas Sungai, Kec. Tebas, Kabupaten Sambas, Kalimantan
+    Barat 79461, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-422
+  FrankeNo: N14.1
+  dateISO: '1900'
+  dateRef: N14.1.1, N14.1.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-423
+  FrankeNo: O1.1
+  dateISO: '1925'
+  dateRef: O1.1.1, O1.1.2, O1.1.3
+  address: Jl. Niaga Utara No.45, Kertak Baru Ilir, Kec. Banjarmasin Tengah, Kota
+    Banjarmasin, Kalimantan Selatan 70234, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-424
+  FrankeNo: O1.2
+  dateISO: '1925'
+  dateRef: O1.2.1
+  address: Jl. Veteran Sungai Bilu No.10, Gadang, Kec. Banjarmasin Tim., Kota Banjarmasin,
+    Kalimantan Selatan 70236, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-425
+  FrankeNo: O1.3
+  dateISO: '1918'
+  dateRef: O1.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-426
+  FrankeNo: O1.4
+  dateISO: '1931'
+  dateRef: O1.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-427
+  FrankeNo: O2.1
+  dateISO: '1864'
+  dateRef: O2.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-428
+  FrankeNo: O3.1
+  dateISO: '1921'
+  dateRef: O3.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-429
+  FrankeNo: P1.1
+  dateISO: '1905'
+  dateRef: P1.1.1
+  address: Jl. Yos Sudarso No.123, Karang Mumus, Kec. Samarinda Kota, Kota Samarinda,
+    Kalimantan Timur 75242, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-430
+  FrankeNo: P1.2
+  dateISO: '1925'
+  dateRef: P1.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-431
+  FrankeNo: P2.1
+  dateISO: '1947'
+  dateRef: P2.1.1
+  address: No. 28., Jl. Bukit Niaga, Klandasan Ilir, Balikpapan Selatan, Balikpapan
+    City, East Kalimantan, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-432
+  FrankeNo: P2.2
+  dateISO: '1914'
+  dateRef: P2.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-433
+  FrankeNo: P3.1
+  dateISO: '1941'
+  dateRef: P3.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-434
+  FrankeNo: P4.1
+  dateISO: '1918'
+  dateRef: P4.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-435
+  FrankeNo: P5.1
+  dateISO: '1922'
+  dateRef: P5.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-436
+  FrankeNo: Q1.1
+  dateISO: '1797'
+  dateRef: Q1.1.1
+  address: Jl. Sulawesi No.41, Pattunuang, Kec. Wajo, Kota Makassar, Sulawesi Selatan
+    90164, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-437
+  FrankeNo: Q1.2
+  dateISO: '1864'
+  dateRef: Q1.2.1
+  address: VCC5+F8Q, Jl. Sulawesi, Pattunuang, Kec. Wajo, Sulawesi Selatan, 90164,
+    Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-438
+  FrankeNo: Q1.3
+  dateISO: '1894'
+  dateRef: Q1.3.1
+  address: Jl. Lombok No.32, Pattunuang, Kec. Wajo, Kota Makassar, Sulawesi Selatan
+    90174, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-439
+  FrankeNo: Q1.4
+  dateISO: '1897'
+  dateRef: Q1.4.1, Q1.4.2
+  address: Jl. Sulawesi No.172, Ende, Kec. Wajo, Kota Makassar, Sulawesi Selatan 90173,
+    Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-440
+  FrankeNo: Q1.5
+  dateISO: '1865'
+  dateRef: Q1.5.1
+  address: VC94+VVH, Jl. Sulawesi, Pattunuang, Kec. Wajo, Kota Makassar, Sulawesi
+    Selatan 90173, Indonesia
+  notes: 疑似
+- nanyangSiteId: fi-wf-441
+  FrankeNo: Q1.6
+  dateISO: '1887'
+  dateRef: Q1.6.1
+  address: Jl. Sulawesi No.30, Pattunuang, Kec. Makassar, Kota Makassar, Sulawesi
+    Selatan 90174, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-442
+  FrankeNo: Q1.7
+  dateISO: '1915'
+  dateRef: Q1.7.1
+  address: VCF5+4H3, Jl. Sulawesi, Ende, Kec. Wajo, Kota Makassar, Sulawesi Selatan
+    90173, Indonesia
+  notes: ''
+- nanyangSiteId: fi-wf-443
+  FrankeNo: Q1.8
+  dateISO: '1958'
+  dateRef: Q1.8.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-444
+  FrankeNo: Q1.9
+  dateISO: ''
+  dateRef: ''
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-445
+  FrankeNo: Q2.1
+  dateISO: '1911'
+  dateRef: Q2.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-446
+  FrankeNo: Q2.2
+  dateISO: '1983'
+  dateRef: Q2.2.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-447
+  FrankeNo: R1.1
+  dateISO: '1664'
+  dateRef: R1.1.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-448
+  FrankeNo: R1.2
+  dateISO: '1736'
+  dateRef: R1.2.1, R1.2.2
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-449
+  FrankeNo: R1.3
+  dateISO: '1738'
+  dateRef: R1.3.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-450
+  FrankeNo: R1.4
+  dateISO: '1804'
+  dateRef: R1.4.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-451
+  FrankeNo: R1.5
+  dateISO: '1810'
+  dateRef: R1.5.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-452
+  FrankeNo: R1.6
+  dateISO: '1839'
+  dateRef: R1.6.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-453
+  FrankeNo: R1.7
+  dateISO: '1879'
+  dateRef: R1.7.1
+  address: ''
+  notes: ''
+- nanyangSiteId: fi-wf-454
+  FrankeNo: R1.8
+  dateISO: '1883'
+  dateRef: R1.8.1
+  address: ''
+  notes: ''
